@@ -33,4 +33,4 @@ Auf diesem Proxmox-Server laufen folgende Dienste:
 - [AdGuard](https://github.com/DEIN-USERNAME/homelab-adguard) – netzwerkweites DNS-Filtern und Tracking-Schutz
 - [Home Assistant](https://github.com/DEIN-USERNAME/homelab-home-assistant) – Smart-Home-Automatisierung
 - [Python3 LXC – Pingsweep-Script](https://github.com/DEIN-USERNAME/homelab-pingsweep) – Netzwerkscan-Tool zur Anzeige aller aktiven IPs im Netzwerk
-![](Promox_VM.png)
+![](Proxmox_VM.png)

@@ -30,7 +30,7 @@ Ich habe einen Mini-PC eigenverantwortlich als Proxmox-VE-Serverumgebung aufgeba
 
 Auf diesem Proxmox-Server laufen folgende Dienste:
 
-- [AdGuard](https://github.com/DEIN-USERNAME/homelab-adguard) – netzwerkweites DNS-Filtern und Tracking-Schutz
-- [Home Assistant](https://github.com/DEIN-USERNAME/homelab-home-assistant) – Smart-Home-Automatisierung
-- [Python3 LXC – Pingsweep-Script](https://github.com/DEIN-USERNAME/homelab-pingsweep) – Netzwerkscan-Tool zur Anzeige aller aktiven IPs im Netzwerk
+- [AdGuard](https://github.com/Criison/homelab-adguard) – netzwerkweites DNS-Filtern und Tracking-Schutz
+- [Home Assistant](https://github.com/Criison/homelab-home-assistant) – Smart-Home-Automatisierung
+- [Python3 LXC – Pingsweep-Script](https://github.com/Criison/homelab-python3) – Netzwerkscan-Tool zur Anzeige aller aktiven IPs im Netzwerk
 ![](Proxmox_VM.png)
